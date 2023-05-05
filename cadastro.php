@@ -22,7 +22,7 @@ include("./conexao.php");
             <div class="container has-text-centered">
                 <div class="column is-4 is-offset-4">
                     <h3 class="title has-text-grey">Cadastro para Login</h3>
-                    <h3 class="title has-text-grey"><a href="" target="_blank">Ramais Casa Civil</a></h3>
+                    <h3 class="title has-text-grey"><a href="" target="_blank">Ramais </a></h3>
                     <?php
 		if(isset($_SESSION['msg'])){
 			echo $_SESSION['msg'];
